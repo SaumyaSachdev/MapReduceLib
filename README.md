@@ -1,6 +1,7 @@
 # MapReduceLib
 
 Instructions to run this project :
+
 Requirements : 
 
 One machine for coordinator and one machine for each of the workers
