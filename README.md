@@ -18,7 +18,7 @@ go build -buildmode=plugin ../mrapps/wc.go
 On the coordinator machine :
 
 ```
-go run 10 mrcoordinator.go pg-*.txt
+go run mrcoordinator.go 10 pg-*.txt
 ```
 The 10 denotes the number of reduce task to be created.
 
